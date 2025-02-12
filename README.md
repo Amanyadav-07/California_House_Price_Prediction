@@ -16,7 +16,7 @@ This project predicts house prices in California using multiple machine learning
 
 ## 📂 Repository Structure
 ```
-├── data/                   # Dataset files
+├── housing.csv                   # Dataset 
 ├── models/                 # Trained model scripts
 │   ├── elastic_net.py
 │   ├── lasso_regression.py
